@@ -1,7 +1,7 @@
 # Chemical Elements API
 This is an api I built that serves data about chemical elements. You can get all the elements from the periodic table, or just one requesting it by its atomic number.
 
-**Link to project:** https://chemical-elements-api.herokuapp.com/
+**Link to project:** https://zealous-tick-sandals.cyclic.app/
 
 ![json picture](public/img/json-picture.png)
 
